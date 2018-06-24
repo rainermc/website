@@ -41,7 +41,8 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Usamos cookies para brindarle la mejor experiencia. Lee nuestro<a href='privacy.html'>\r\npolítica de cookies</a>.",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107790017-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107790017-3');\r\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107790017-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107790017-3');\r\n</script>",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
